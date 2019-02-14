@@ -505,7 +505,6 @@ a:focus {
 }
 
 .tabscontent__item:first-child .box {
-	background-image: url(../img/portrait1.jpg);
 }
 
 .tabscontent__item:nth-child(2) .box {

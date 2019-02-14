@@ -37,6 +37,9 @@
 	justify-content: center;
 	align-items: center;
 	pointer-events: none;
+	font-family: shackleton-wide, 'Playfair Display', "Calisto MT", "Bookman Old Style", serif;
+  text-transform: lowercase;
+  letter-spacing: 15px;
 }
 
 /* Vertical Menu */
