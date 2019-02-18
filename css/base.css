@@ -382,6 +382,26 @@ a:focus {
 	color: var(--color-content);
 }
 
+.slide__content p {
+	font-family: Futura;
+	font-size: 0.95rem;
+}
+
+.slide__content p a {
+	color: #fc0;
+}
+
+.slide__content span {
+	display: -webkit-box;
+	margin: 25px 0;
+	font-family: Futura;
+	font-size: 0.95rem;
+	font-weight: 600;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	opacity: .6;
+}
+
 .slide__back {
 	opacity: 0;
 	background: none;

@@ -99,6 +99,23 @@ article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,su
 	white-space: pre;
 }
 
+.skill-content .block h3 {
+	font-size: 1.25rem;
+	margin-bottom: 30px;
+}
+
+.skill-content .block p {
+	font-size: 0.95rem;
+  letter-spacing: 4px;
+	text-align: center;
+	opacity: .5;
+}
+
+.skill-content .content__text.download__CV {
+	text-align: center;
+	font-size: 1.75rem;
+}
+
 .skill-content a {
 	text-decoration: none;
 	color: var(--color-link);

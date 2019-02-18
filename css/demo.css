@@ -511,7 +511,6 @@ a:focus {
 }
 
 .tabscontent__item:nth-child(3) .box {
-	background-image: url(../img/portrait3.jpg);
 }
 
 @media screen and (max-width: 40em) {
