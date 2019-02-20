@@ -487,7 +487,6 @@ a:focus {
 
 .box {
 	position: relative;
-	/* width: 40vw; */
 	min-width: 300px;
 	height: calc(90vh - 120px);
 	margin-top: 40px;
@@ -606,5 +605,11 @@ a:focus {
 	}
 	.demo-3 .codrops-header__deco {
 		font-size: 0.85em;
+	}
+}
+
+@media screen and (max-width: 420px) {
+	.box {
+		overflow: overlay;
 	}
 }
